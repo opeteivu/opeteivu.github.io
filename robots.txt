@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opeteivu.github.io/htv/sitemap_index.txt
+Sitemap: https://opeteivu.github.io/pJc/sitemap_index.txt
+Sitemap: https://opeteivu.github.io/uiy/sitemap_index.txt
+Sitemap: https://opeteivu.github.io/uyZ/sitemap_index.txt
